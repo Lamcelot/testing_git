@@ -21,5 +21,6 @@ public class MultiCatch {
 			throw ex;
 		}
 	}
+	System.out.println("Lisätty turhaa printtiä koska miksi ei!?");
 
 }
