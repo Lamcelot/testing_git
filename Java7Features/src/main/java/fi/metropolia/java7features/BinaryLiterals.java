@@ -4,7 +4,7 @@ public class BinaryLiterals {
 
 	private int binaryEight = 0b1000;
 	private int binaryHundred = 0b1100100;
-	char str[] = "hauskaa";
+	char str[] = "hauskaa on";
 
 	public int getBinaryEight() {
 		return binaryEight;
