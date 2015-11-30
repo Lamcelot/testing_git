@@ -23,5 +23,7 @@ public class BinaryLiteralsTest {
 	public void binaryHundred() {
 		assertEquals(literals.getBinaryHundred(), 100);
 	}
+        public void tyhja() {
+        }
 
 }

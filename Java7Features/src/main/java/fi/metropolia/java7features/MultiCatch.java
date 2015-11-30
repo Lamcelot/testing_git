@@ -19,7 +19,8 @@ public class MultiCatch {
 				throw new IOException();
 		} catch (IOException | SQLException ex) {
 			throw ex;
-		}
+		}//päätin varmuuden vuoksi vain kommentoida koodia
 	}
+	System.out.println("Lisätty turhaa printtiä koska miksi ei!?");
 
 }
