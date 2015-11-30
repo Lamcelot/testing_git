@@ -8,6 +8,8 @@ public class BinaryLiterals {
 	public int getBinaryEight() {
 		return binaryEight;
 	}
+	
+//haloo
 
 	public int getBinaryHundred() {
 		return binaryHundred;
