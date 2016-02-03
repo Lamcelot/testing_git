@@ -3,7 +3,7 @@ package fi.metropolia.java7features;
 public class StringSwitch {
 
 	private String day;
-	private int lucifer = 666;
+	private int lucifer = 666;//Hui kauhuuksia
 
 	public StringSwitch(String day) {
 		this.day = day;
