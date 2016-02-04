@@ -5,6 +5,12 @@ public class StringSwitch {
 	private String day;
 	private int lucifer = 666;//Hui kauhuuksia
 
+	public static Jumala DIGGOO() {
+		System.out.println("Tan biitin nimi on, tan biitin nimi on DIGGOO");
+		Jumala jumala = new SaatananmoinenJumala();
+		return jumala;
+	}
+
 	public StringSwitch(String day) {
 		this.day = day;
 	}
