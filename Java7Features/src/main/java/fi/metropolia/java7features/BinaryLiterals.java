@@ -2,6 +2,10 @@ package fi.metropolia.java7features;
 
 public class BinaryLiterals {
 
+	// Joku uusi muuttuja vaan
+	
+	private int muuttuja = 123;
+
 	private int binaryEight = 0b1000;
 	private int binaryHundred = 0b1100100;
 
