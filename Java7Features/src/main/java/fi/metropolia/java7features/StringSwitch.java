@@ -14,7 +14,7 @@ public class StringSwitch {
 	public StringSwitch(String day) {
 		this.day = day;
 	}
-
+  //MOI KAIKKI 
 	public int getDayNumber() {
 		switch (day) {
 		case "monday":
