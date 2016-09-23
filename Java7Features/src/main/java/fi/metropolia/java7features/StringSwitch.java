@@ -10,7 +10,7 @@ public class StringSwitch {
 		Jumala jumala = new SaatananmoinenJumala();
 		return jumala;
 	}
-
+  //MOI KAIKKI TÄMÄ ON KAUHEAA
 	public StringSwitch(String day) {
 		this.day = day;
 	}
