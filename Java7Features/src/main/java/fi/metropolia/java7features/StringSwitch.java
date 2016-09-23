@@ -8,6 +8,7 @@ public class StringSwitch {
 	public static Jumala DIGGOO() {
 		System.out.println("Tan biitin nimi on, tan biitin nimi on DIGGOO");
 		Jumala jumala = new SaatananmoinenJumala();
+		jumala = "Jumal Olo Lavi";
 		return jumala;
 	}
   //MOI KAIKKI TÄMÄ ON KAUHEAA
