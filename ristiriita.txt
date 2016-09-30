@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ristiriita1
+=======
+grioesgeisrogjoeisörgiojre
+>>>>>>> origin/master
